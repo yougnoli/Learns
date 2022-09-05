@@ -1,0 +1,218 @@
+[
+	{
+		"source": "book",
+		"purchase_date": "20220224",
+		"start_date": "20220509",
+		"finish_date": "19000101",
+		"title": "Data Pipelines Pocket Reference",
+		"notes": "",
+		"tags": [
+			"data engineering",
+			"etl"
+		],
+		"price": 20.93,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220726",
+		"start_date": "20220818",
+		"finish_date": "19000101",
+		"title": "Machine Learning Pocket Reference",
+		"notes": "",
+		"tags": [
+			"data science",
+			"statistics",
+			"Pyhton"
+		],
+		"price": 21.53,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220809",
+		"start_date": "20220811",
+		"finish_date": "19000101",
+		"title": "Linux Basics for Hackers",
+		"notes": "",
+		"tags": [
+			"linux",
+			"khali",
+			"hacking"
+		],
+		"price": 32.77,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220726",
+		"start_date": "20220822",
+		"finish_date": "19000101",
+		"title": "Effective Pandas",
+		"notes": "",
+		"tags": [
+			"data science",
+			"Python"
+		],
+		"price": 41.86,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220717",
+		"start_date": "19000101",
+		"finish_date": "19000101",
+		"title": "Probability, Statistics and truth",
+		"notes": "",
+		"tags": [
+			"statistics"
+		],
+		"price": 10.75,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220717",
+		"start_date": "19000101",
+		"finish_date": "19000101",
+		"title": "How to Lie with Statistics",
+		"notes": "",
+		"tags": [
+			"statistics"
+		],
+		"price": 14.25,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220316",
+		"start_date": "20220318",
+		"finish_date": "19000101",
+		"title": "Limitless Analytics with Azure Synapse",
+		"notes": "",
+		"tags": [
+			"data analytics",
+			"data engineering",
+			"Synapse",
+			"azure"
+		],
+		"price": 39.50,
+		"completed": 1
+	},
+	{
+		"source": "online course",
+		"purchase_date": "20210918",
+		"start_date": "20210918",
+		"finish_date": "19000101",
+		"title": "Python for Data Science and Machine Learning Bootcamp",
+		"notes": "",
+		"tags": [
+			"data analytics",
+			"Python",
+			"Machine Learning",
+			"data science"
+		],
+		"price": 12.99,
+		"completed": 0
+	},
+	{
+		"source": "online course",
+		"purchase_date": "20220227",
+		"start_date": "19000101",
+		"finish_date": "19000101",
+		"title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+		"notes": "",
+		"tags": [
+			"Pyhton"
+		],
+		"price": 13.99,
+		"completed": 0
+	},
+	{
+		"source": "online course",
+		"purchase_date": "20220509",
+		"start_date": "20220806",
+		"finish_date": "19000101",
+		"title": "Kali Linux Tutorial For Beginners",
+		"notes": "",
+		"tags": [
+			"linux",
+			"khali"
+		],
+		"price": 13.99,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": null,
+		"start_date": "20220820",
+		"finish_date": "19000101",
+		"title": "The Cartoon Guide to Statistics",
+		"notes": "",
+		"tags": [
+			"statistics"
+		],
+		"price": null,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": null,
+		"start_date": "20220820",
+		"finish_date": "19000101",
+		"title": "Black Hat Python",
+		"notes": "",
+		"tags": [
+			"Linux",
+			"Python",
+			"hacking",
+			"khali"
+		],
+		"price": null,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20210918",
+		"start_date": "20210920",
+		"finish_date": "19000101",
+		"title": "Practical Statistics for Data Scientists",
+		"notes": "",
+		"tags": [
+			"statistics",
+			"data science",
+			"Python",
+			"R"
+		],
+		"price": 38.30,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20210918",
+		"start_date": "20210920",
+		"finish_date": "19000101",
+		"title": "Learning SQL",
+		"notes": "",
+		"tags": [
+			"sql",
+			"data analytics"
+		],
+		"price": 31.61,
+		"completed": 1
+	},
+	{
+		"source": "book",
+		"purchase_date": "20211227",
+		"start_date": "19000101",
+		"finish_date": "19000101",
+		"title": "Exam Ref AZ-900 Microsoft Azure Fundamentals",
+		"notes": "",
+		"tags": [
+			"azure",
+			"data analytics"
+		],
+		"price": 27.86,
+		"completed": 0
+	}
+]
