@@ -8,9 +8,9 @@ This repository is a personal library of what I have learned, am learning, would
 - [Here](https://app.powerbi.com/view?r=eyJrIjoiYTdmZmNkZTYtY2JkYy00MDQ3LTk3YWMtMGUwYmFhN2E2NjAyIiwidCI6ImIzYmNlMTdhLWZhYzktNDEwYS1iMWI1LTMyYmJkM2UwMTVmNSIsImMiOjh9) you can find a PowerBI report with summary statistcs and info from the learning.json file.
 
 ## Current
-### (Reading/Doing) - 
-### (Reading/Doing) - 
+### (Reading/Doing) - [Effective Pandas](https://github.com/yougnoli/Effective-Pandas)
+### (Reading/Doing) - [Databricks -Learning Spark](https://github.com/yougnoli/Databricks-Learning-Spark)
 ### (Reading/Doing) - 
 
 ## Previous
-### (Read/Done) - 
+### (Read/Done) - [tSQL Fundamentals](https://github.com/yougnoli/tSQL-Fundamentals)
