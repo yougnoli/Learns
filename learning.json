@@ -1,0 +1,31 @@
+[
+	{
+		"source": "book",
+		"purchase_date": "20220501",
+		"start_date": "20220509",
+		"finish_date": "19000101",
+		"title": "Data Pipelines Pocket Reference",
+		"notes": "",
+		"tags": [
+			"data engineering",
+			"etl"
+		],
+		"price": 20.93,
+		"completed": 0
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220726",
+		"start_date": "20220818",
+		"finish_date": "19000101",
+		"title": "Machine Learning Pocket Reference",
+		"notes": "",
+		"tags": [
+			"data science",
+			"statistics",
+			"Pyhton"
+		],
+		"price": 21.53,
+		"completed": 0
+	}
+]
