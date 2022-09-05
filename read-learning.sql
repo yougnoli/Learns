@@ -10,7 +10,9 @@ select
 	,json_query(b.value, '$.tags') as tags
 	,convert(float, json_value(b.value, '$.price')) as price
 	,convert(bit, json_value(b.value, '$.completed')) as completed
+	,json_value(b.value, '$.link') as link
 from 
 	openrowset(bulk 'C:\Temp\Learning.json', single_clob) as a 
 	cross apply
 	openjson(BulkColumn) as b
+order by convert(date, json_value(b.value, '$.purchase_date'))
