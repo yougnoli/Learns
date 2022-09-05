@@ -12,7 +12,7 @@
 		],
 		"price": 20.93,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831/ref=sr_1_1?keywords=data+pipelines&qid=1662407857&sprefix=data+pipel%2Caps%2C110&sr=8-1"
 	},
 	{
 		"source": "book",
@@ -28,7 +28,7 @@
 		],
 		"price": 21.53,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/gp/product/1492047546/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
@@ -44,7 +44,7 @@
 		],
 		"price": 32.77,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/gp/product/1593278551/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
@@ -59,7 +59,7 @@
 		],
 		"price": 41.86,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/gp/product/B09MYXXSFM/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
@@ -73,7 +73,7 @@
 		],
 		"price": 10.75,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/gp/product/0486242145/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
@@ -87,7 +87,7 @@
 		],
 		"price": 14.25,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/How-Lie-Statistics-Darrell-Huff/dp/0140136290/ref=sr_1_1?keywords=how+to+lie+with+statistics&qid=1662407884&sprefix=how+to+lie+%2Caps%2C162&sr=8-1"
 	},
 	{
 		"source": "book",
@@ -104,7 +104,7 @@
 		],
 		"price": 39.50,
 		"completed": 1,
-		"link":""
+		"link": "https://www.amazon.it/Limitless-Analytics-Azure-Synapse-end/dp/1800205651/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GYQQ9J1A9VHV&keywords=limitless+analytics+synapse&qid=1662407912&sprefix=limitless+analytics+synapse%2Caps%2C102&sr=8-1"
 	},
 	{
 		"source": "online course",
@@ -121,7 +121,7 @@
 		],
 		"price": 12.99,
 		"completed": 0,
-		"link":""
+		"link": null
 	},
 	{
 		"source": "online course",
@@ -135,7 +135,7 @@
 		],
 		"price": 13.99,
 		"completed": 0,
-		"link":""
+		"link": null
 	},
 	{
 		"source": "online course",
@@ -150,7 +150,7 @@
 		],
 		"price": 13.99,
 		"completed": 0,
-		"link":""
+		"link": null
 	},
 	{
 		"source": "book",
@@ -164,7 +164,7 @@
 		],
 		"price": 15.78,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/Cartoon-Guide-Statistics-Larry-Gonick/dp/0062731025/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TO0DG4J9V9NJ&keywords=cartoon+guide+statistics&qid=1662407798&sprefix=cartoon+guide+statistics%2Caps%2C115&sr=8-1"
 	},
 	{
 		"source": "book",
@@ -181,7 +181,7 @@
 		],
 		"price": null,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/Black-Hat-Python-Programming-Pentesters/dp/1718501129/ref=sr_1_1?keywords=black+hat+python&qid=1662407686&sprefix=black+hat+%2Caps%2C116&sr=8-1"
 	},
 	{
 		"source": "book",
@@ -198,7 +198,7 @@
 		],
 		"price": 38.30,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/gp/product/149207294X/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
@@ -213,7 +213,7 @@
 		],
 		"price": 31.61,
 		"completed": 1,
-		"link":""
+		"link": "https://www.amazon.it/gp/product/1492057614/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
@@ -228,7 +228,7 @@
 		],
 		"price": 27.86,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/gp/product/0136877184/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
@@ -243,7 +243,7 @@
 		],
 		"price": null,
 		"completed": 1,
-		"link":""
+		"link": "https://www.amazon.com/T-SQL-Fundamentals-3rd-Itzik-Ben-Gan/dp/150930200X"
 	},
 	{
 		"source": "book",
@@ -260,7 +260,7 @@
 		],
 		"price": null,
 		"completed": 0,
-		"link":""
+		"link": "https://www.amazon.it/Learning-Spark-Jules-Damji/dp/1492050040/ref=sr_1_1?keywords=learning+spark&qid=1662407644&sprefix=learning+spa%2Caps%2C124&sr=8-1"
 	},
 	{
 		"source": "book",
@@ -277,7 +277,7 @@
 		],
 		"price": null,
 		"completed": 0,
-		"link":""
+		"link": null
 	}
 
 ]
