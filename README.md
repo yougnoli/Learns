@@ -9,8 +9,8 @@ This repository is a personal library of what I have learned, am learning, would
 
 ## Current
 ### (Reading/Doing) - [Effective Pandas](https://github.com/yougnoli/Effective-Pandas)
-### (Reading/Doing) - [Databricks -Learning Spark](https://github.com/yougnoli/Databricks-Learning-Spark)
-### (Reading/Doing) - 
+### (Reading/Doing) - [Data Engineering](https://github.com/yougnoli/DP-203-Data-Engineering)
+### (Reading/Doing) - [Azure Synapse](https://github.com/yougnoli/Azure-Synapse)
 
 ## Previous
 ### (Read/Done) - [tSQL Fundamentals](https://github.com/yougnoli/tSQL-Fundamentals)
