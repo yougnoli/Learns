@@ -8,7 +8,7 @@ This repository is a personal library of what I have learned, am learning, would
 - [Here](https://app.powerbi.com/view?r=eyJrIjoiNmZkNGJjNjAtMTExOS00NmI3LWEyNWYtYmI3NTlmYmU3N2I1IiwidCI6ImIzYmNlMTdhLWZhYzktNDEwYS1iMWI1LTMyYmJkM2UwMTVmNSIsImMiOjh9) you can find a PowerBI report with summary statistcs and info from the learning.json file.
 
 ## Current
-### (Reading/Doing) - [Effective Pandas](https://github.com/yougnoli/Effective-Pandas)
+### (Reading/Doing) - [Pandas-Python](https://github.com/yougnoli/Effective-Pandas)
 ### (Reading/Doing) - [Data Engineering](https://github.com/yougnoli/DP-203-Data-Engineering)
 ### (Reading/Doing) - [Azure Synapse](https://github.com/yougnoli/Azure-Synapse)
 
