@@ -14,3 +14,4 @@ This repository is a personal library of what I have learned, am learning, would
 
 ## Previous
 ### (Read/Done) - [tSQL Fundamentals](https://github.com/yougnoli/tSQL-Fundamentals)
+### (Read/Done) - [Python](https://github.com/yougnoli/Python-for-Beginners)
