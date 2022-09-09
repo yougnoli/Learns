@@ -1,4 +1,5 @@
 -- read Learning.json with sql server
+-- Download Learning.json, put it in a Temp folder on C disk (path has to be the same as is in line 16)
 
 select 
 	json_value(b.value, '$.source') as source
