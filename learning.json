@@ -278,6 +278,23 @@
 		"price": null,
 		"completed": 0,
 		"link": null
+	},
+	{
+		"source": "book",
+		"purchase_date": "20220913",
+		"start_date": "null",
+		"finish_date": null,
+		"title": "Seven Databases in Seven Weeks",
+		"notes": "",
+		"tags": [
+			"SQL",
+			"Graph",
+			"Database"
+		],
+		"price": 34.96,
+		"completed": 0,
+		"link": "https://www.amazon.it/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/ref=sr_1_1?crid=1SL5NHZOFJZIJ&keywords=7+databases+in+7+weeks&qid=1663235846&sprefix=%2Caps%2C87&sr=8-1"
 	}
+
 
 ]
