@@ -10,8 +10,9 @@ This repository is a personal library of what I have learned, am learning, would
 ## Current
 ### (Reading/Doing) - [Pandas-Python](https://github.com/yougnoli/Effective-Pandas)
 ### (Reading/Doing) - [Data Engineering](https://github.com/yougnoli/DP-203-Data-Engineering)
-### (Reading/Doing) - [Azure Synapse](https://github.com/yougnoli/Azure-Synapse)
+### (Reading/Doing) - [Seven Databases in Seven Weeks](https://github.com/yougnoli/Seven-Databases-in-Seven-Weeks)
 
 ## Previous
 ### (Read/Done) - [tSQL Fundamentals](https://github.com/yougnoli/tSQL-Fundamentals)
 ### (Read/Done) - [Python](https://github.com/yougnoli/Python-for-Beginners)
+### (Read/Done) - [Azure Synapse](https://github.com/yougnoli/Azure-Synapse)
