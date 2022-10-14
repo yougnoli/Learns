@@ -16,3 +16,4 @@ This repository is a personal library of what I have learned, am learning, would
 ### (Read/Done) - [tSQL Fundamentals](https://github.com/yougnoli/tSQL-Fundamentals)
 ### (Read/Done) - [Python](https://github.com/yougnoli/Python-for-Beginners)
 ### (Read/Done) - [Azure Synapse](https://github.com/yougnoli/Azure-Synapse)
+### (Read/Done) - [Apache Spark](https://github.com/yougnoli/Databricks-Learning-Spark)
