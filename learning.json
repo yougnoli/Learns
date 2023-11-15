@@ -2,24 +2,21 @@
 	{
 		"source": "book",
 		"purchase_date": "20220224",
-		"start_date": "20220509",
-		"finish_date": null,
 		"title": "Data Pipelines Pocket Reference",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"data engineering",
 			"etl"
 		],
 		"price": 20.93,
-		"completed": 0,
 		"link": "https://www.amazon.it/Data-Pipelines-Pocket-Reference-Processing/dp/1492087831/ref=sr_1_1?keywords=data+pipelines&qid=1662407857&sprefix=data+pipel%2Caps%2C110&sr=8-1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220726",
-		"start_date": "20220818",
-		"finish_date": null,
 		"title": "Machine Learning Pocket Reference",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"data science",
@@ -27,15 +24,13 @@
 			"Pyhton"
 		],
 		"price": 21.53,
-		"completed": 0,
 		"link": "https://www.amazon.it/gp/product/1492047546/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220809",
-		"start_date": "20220811",
-		"finish_date": null,
 		"title": "Linux Basics for Hackers",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"linux",
@@ -43,58 +38,50 @@
 			"hacking"
 		],
 		"price": 32.77,
-		"completed": 0,
 		"link": "https://www.amazon.it/gp/product/1593278551/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220726",
-		"start_date": "20220822",
-		"finish_date": null,
 		"title": "Effective Pandas",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"data science",
 			"Python"
 		],
 		"price": 41.86,
-		"completed": 0,
 		"link": "https://www.amazon.it/gp/product/B09MYXXSFM/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220717",
-		"start_date": null,
-		"finish_date": null,
 		"title": "Probability, Statistics and truth",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"statistics"
 		],
 		"price": 10.75,
-		"completed": 0,
 		"link": "https://www.amazon.it/gp/product/0486242145/ref=ppx_yo_dt_b_asin_title_o04_s01?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220717",
-		"start_date": null,
-		"finish_date": null,
 		"title": "How to Lie with Statistics",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"statistics"
 		],
 		"price": 14.25,
-		"completed": 0,
 		"link": "https://www.amazon.it/How-Lie-Statistics-Darrell-Huff/dp/0140136290/ref=sr_1_1?keywords=how+to+lie+with+statistics&qid=1662407884&sprefix=how+to+lie+%2Caps%2C162&sr=8-1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220316",
-		"start_date": "20220318",
-		"finish_date": null,
 		"title": "Limitless Analytics with Azure Synapse",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"data analytics",
@@ -102,16 +89,14 @@
 			"Synapse",
 			"azure"
 		],
-		"price": 39.50,
-		"completed": 1,
+		"price": 39.5,
 		"link": "https://www.amazon.it/Limitless-Analytics-Azure-Synapse-end/dp/1800205651/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1GYQQ9J1A9VHV&keywords=limitless+analytics+synapse&qid=1662407912&sprefix=limitless+analytics+synapse%2Caps%2C102&sr=8-1"
 	},
 	{
 		"source": "online course",
 		"purchase_date": "20210918",
-		"start_date": "20210918",
-		"finish_date": null,
 		"title": "Python for Data Science and Machine Learning Bootcamp",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"data analytics",
@@ -120,58 +105,50 @@
 			"data science"
 		],
 		"price": 12.99,
-		"completed": 0,
 		"link": null
 	},
 	{
 		"source": "online course",
 		"purchase_date": "20220227",
-		"start_date": null,
-		"finish_date": null,
 		"title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"Pyhton"
 		],
 		"price": 13.99,
-		"completed": 0,
 		"link": null
 	},
 	{
 		"source": "online course",
 		"purchase_date": "20220509",
-		"start_date": "20220806",
-		"finish_date": null,
 		"title": "Kali Linux Tutorial For Beginners",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"linux",
 			"khali"
 		],
 		"price": 13.99,
-		"completed": 0,
 		"link": null
 	},
 	{
 		"source": "book",
 		"purchase_date": "20211226",
-		"start_date": "20220820",
-		"finish_date": null,
 		"title": "The Cartoon Guide to Statistics",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"statistics"
 		],
 		"price": 15.78,
-		"completed": 0,
 		"link": "https://www.amazon.it/Cartoon-Guide-Statistics-Larry-Gonick/dp/0062731025/ref=sr_1_1?__mk_it_IT=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=1TO0DG4J9V9NJ&keywords=cartoon+guide+statistics&qid=1662407798&sprefix=cartoon+guide+statistics%2Caps%2C115&sr=8-1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220806",
-		"start_date": "20220820",
-		"finish_date": null,
 		"title": "Black Hat Python",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"Linux",
@@ -180,15 +157,13 @@
 			"khali"
 		],
 		"price": null,
-		"completed": 0,
 		"link": "https://www.amazon.it/Black-Hat-Python-Programming-Pentesters/dp/1718501129/ref=sr_1_1?keywords=black+hat+python&qid=1662407686&sprefix=black+hat+%2Caps%2C116&sr=8-1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20210918",
-		"start_date": "20210920",
-		"finish_date": null,
 		"title": "Practical Statistics for Data Scientists",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"statistics",
@@ -196,61 +171,53 @@
 			"Python",
 			"R"
 		],
-		"price": 38.30,
-		"completed": 0,
+		"price": 38.3,
 		"link": "https://www.amazon.it/gp/product/149207294X/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20210918",
-		"start_date": "20210920",
-		"finish_date": null,
 		"title": "Learning SQL",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"sql",
 			"data analytics"
 		],
 		"price": 31.61,
-		"completed": 1,
 		"link": "https://www.amazon.it/gp/product/1492057614/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20211227",
-		"start_date": null,
-		"finish_date": null,
 		"title": "Exam Ref AZ-900 Microsoft Azure Fundamentals",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"azure",
 			"data analytics"
 		],
 		"price": 27.86,
-		"completed": 0,
 		"link": "https://www.amazon.it/gp/product/0136877184/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220115",
-		"start_date": "20220115",
-		"finish_date": "20220314",
 		"title": "t-SQL Fundamentals",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"sql",
 			"data analytics"
 		],
 		"price": null,
-		"completed": 1,
 		"link": "https://www.amazon.com/T-SQL-Fundamentals-3rd-Itzik-Ben-Gan/dp/150930200X"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220401",
-		"start_date": "20220401",
-		"finish_date": null,
 		"title": "Learning Spark",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"azure",
@@ -259,15 +226,13 @@
 			"Databricks"
 		],
 		"price": null,
-		"completed": 0,
 		"link": "https://www.amazon.it/Learning-Spark-Jules-Damji/dp/1492050040/ref=sr_1_1?keywords=learning+spark&qid=1662407644&sprefix=learning+spa%2Caps%2C124&sr=8-1"
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220801",
-		"start_date": "20220801",
-		"finish_date": null,
 		"title": "DP-203T00",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"azure",
@@ -276,15 +241,13 @@
 			"Databricks"
 		],
 		"price": null,
-		"completed": 0,
 		"link": null
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220913",
-		"start_date": "null",
-		"finish_date": null,
 		"title": "Seven Databases in Seven Weeks",
+		"author": "",
 		"notes": "",
 		"tags": [
 			"SQL",
@@ -292,7 +255,114 @@
 			"Database"
 		],
 		"price": 34.96,
-		"completed": 0,
 		"link": "https://www.amazon.it/Seven-Databases-Weeks-Modern-Movement/dp/1680502530/ref=sr_1_1?crid=1SL5NHZOFJZIJ&keywords=7+databases+in+7+weeks&qid=1663235846&sprefix=%2Caps%2C87&sr=8-1"
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "Sql Performance Explained",
+		"author": "Markus Winand",
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "The Data Warehouse Toolkit",
+		"author": ["Ralph Kimball", "Margy Ross"],
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "MongoDB: The Definitive Guide",
+		"author": ["Shannon Bradshaw", "Eoin Brazil", "Kristina Chodorw"],
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "Fundamentals of Data Engineering",
+		"author": ["Joe Rays", "Matt Housley"],
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "Azure Databricks Cookbook",
+		"author": ["Phani Raj", "Rinod Jayswal"],
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "AWS Certified Solutions Architect",
+		"author": "",
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "La shell testuale",
+		"author": "",
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "Network Basics for Hackers",
+		"author": "",
+		"notes": "OccupytheWeb",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
+	},
+	{
+		"source": "book",
+		"purchase_date": "",
+		"title": "Deep Learning",
+		"author": "Seth Weidman",
+		"notes": "",
+		"tags": [
+			""
+		],
+		"price": 0,
+		"link": ""
 	}
 ]
