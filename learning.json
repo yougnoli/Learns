@@ -241,7 +241,7 @@
 			"Databricks"
 		],
 		"price": null,
-		"link": null,
+		"link": null
 	},
 	{
 		"source": "book",
@@ -273,7 +273,10 @@
 		"source": "book",
 		"purchase_date": null,
 		"title": "The Data Warehouse Toolkit",
-		"author": ["Ralph Kimball", "Margy Ross"],
+		"author": [
+			"Ralph Kimball",
+			"Margy Ross"
+		],
 		"notes": null,
 		"tags": [
 			""
@@ -285,7 +288,11 @@
 		"source": "book",
 		"purchase_date": null,
 		"title": "MongoDB: The Definitive Guide",
-		"author": ["Shannon Bradshaw", "Eoin Brazil", "Kristina Chodorw"],
+		"author": [
+			"Shannon Bradshaw",
+			"Eoin Brazil",
+			"Kristina Chodorw"
+		],
 		"notes": null,
 		"tags": [
 			""
@@ -297,7 +304,10 @@
 		"source": "book",
 		"purchase_date": null,
 		"title": "Fundamentals of Data Engineering",
-		"author": ["Joe Rays", "Matt Housley"],
+		"author": [
+			"Joe Rays",
+			"Matt Housley"
+		],
 		"notes": null,
 		"tags": [
 			""
@@ -309,7 +319,10 @@
 		"source": "book",
 		"purchase_date": null,
 		"title": "Azure Databricks Cookbook",
-		"author": ["Phani Raj", "Rinod Jayswal"],
+		"author": [
+			"Phani Raj",
+			"Rinod Jayswal"
+		],
 		"notes": null,
 		"tags": [
 			""
@@ -345,7 +358,7 @@
 		"source": "book",
 		"purchase_date": null,
 		"title": "Network Basics for Hackers",
-		"author": "OccupytheWeb",
+		"author": ["OccupytheWeb"],
 		"notes": null,
 		"tags": [
 			""
