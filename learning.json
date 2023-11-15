@@ -3,8 +3,8 @@
 		"source": "book",
 		"purchase_date": "20220224",
 		"title": "Data Pipelines Pocket Reference",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"data engineering",
 			"etl"
@@ -16,8 +16,8 @@
 		"source": "book",
 		"purchase_date": "20220726",
 		"title": "Machine Learning Pocket Reference",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"data science",
 			"statistics",
@@ -30,8 +30,8 @@
 		"source": "book",
 		"purchase_date": "20220809",
 		"title": "Linux Basics for Hackers",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"linux",
 			"khali",
@@ -44,8 +44,8 @@
 		"source": "book",
 		"purchase_date": "20220726",
 		"title": "Effective Pandas",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"data science",
 			"Python"
@@ -57,8 +57,8 @@
 		"source": "book",
 		"purchase_date": "20220717",
 		"title": "Probability, Statistics and truth",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"statistics"
 		],
@@ -69,8 +69,8 @@
 		"source": "book",
 		"purchase_date": "20220717",
 		"title": "How to Lie with Statistics",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"statistics"
 		],
@@ -81,8 +81,8 @@
 		"source": "book",
 		"purchase_date": "20220316",
 		"title": "Limitless Analytics with Azure Synapse",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"data analytics",
 			"data engineering",
@@ -96,8 +96,8 @@
 		"source": "online course",
 		"purchase_date": "20210918",
 		"title": "Python for Data Science and Machine Learning Bootcamp",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"data analytics",
 			"Python",
@@ -111,8 +111,8 @@
 		"source": "online course",
 		"purchase_date": "20220227",
 		"title": "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"Pyhton"
 		],
@@ -123,8 +123,8 @@
 		"source": "online course",
 		"purchase_date": "20220509",
 		"title": "Kali Linux Tutorial For Beginners",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"linux",
 			"khali"
@@ -136,8 +136,8 @@
 		"source": "book",
 		"purchase_date": "20211226",
 		"title": "The Cartoon Guide to Statistics",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"statistics"
 		],
@@ -148,8 +148,8 @@
 		"source": "book",
 		"purchase_date": "20220806",
 		"title": "Black Hat Python",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"Linux",
 			"Python",
@@ -163,8 +163,8 @@
 		"source": "book",
 		"purchase_date": "20210918",
 		"title": "Practical Statistics for Data Scientists",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"statistics",
 			"data science",
@@ -178,8 +178,8 @@
 		"source": "book",
 		"purchase_date": "20210918",
 		"title": "Learning SQL",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"sql",
 			"data analytics"
@@ -191,8 +191,8 @@
 		"source": "book",
 		"purchase_date": "20211227",
 		"title": "Exam Ref AZ-900 Microsoft Azure Fundamentals",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"azure",
 			"data analytics"
@@ -204,8 +204,8 @@
 		"source": "book",
 		"purchase_date": "20220115",
 		"title": "t-SQL Fundamentals",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"sql",
 			"data analytics"
@@ -217,8 +217,8 @@
 		"source": "book",
 		"purchase_date": "20220401",
 		"title": "Learning Spark",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"azure",
 			"data engineering",
@@ -232,8 +232,8 @@
 		"source": "book",
 		"purchase_date": "20220801",
 		"title": "DP-203T00",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"azure",
 			"data engineering",
@@ -241,14 +241,14 @@
 			"Databricks"
 		],
 		"price": null,
-		"link": null
+		"link": null,
 	},
 	{
 		"source": "book",
 		"purchase_date": "20220913",
 		"title": "Seven Databases in Seven Weeks",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			"SQL",
 			"Graph",
@@ -259,110 +259,110 @@
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "Sql Performance Explained",
 		"author": "Markus Winand",
-		"notes": "",
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "The Data Warehouse Toolkit",
 		"author": ["Ralph Kimball", "Margy Ross"],
-		"notes": "",
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "MongoDB: The Definitive Guide",
 		"author": ["Shannon Bradshaw", "Eoin Brazil", "Kristina Chodorw"],
-		"notes": "",
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "Fundamentals of Data Engineering",
 		"author": ["Joe Rays", "Matt Housley"],
-		"notes": "",
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "Azure Databricks Cookbook",
 		"author": ["Phani Raj", "Rinod Jayswal"],
-		"notes": "",
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "AWS Certified Solutions Architect",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "La shell testuale",
-		"author": "",
-		"notes": "",
+		"author": null,
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "Network Basics for Hackers",
-		"author": "",
-		"notes": "OccupytheWeb",
+		"author": "OccupytheWeb",
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	},
 	{
 		"source": "book",
-		"purchase_date": "",
+		"purchase_date": null,
 		"title": "Deep Learning",
 		"author": "Seth Weidman",
-		"notes": "",
+		"notes": null,
 		"tags": [
 			""
 		],
-		"price": 0,
-		"link": ""
+		"price": null,
+		"link": null
 	}
 ]
